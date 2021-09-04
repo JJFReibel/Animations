@@ -1,5 +1,5 @@
 # By Jean-Jacques F. Reibel
-# Cyclops from X-Men
+# Animations
 # I will not be held responsible for:
 # any shenanigans
 # ಠ_ಠ
